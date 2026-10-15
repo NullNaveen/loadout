@@ -1,0 +1,208 @@
+Skills, agents, tools and random projects I use or keep an eye on. Sorted by stars, updated weekly.
+
+# Skills
+
+## Workflow
+obra/superpowers         Brainstorm, write a plan, build it with subagents
+mattpocock/skills        TDD, grilling, specs and code review
+affaan-m/ECC             Skills, agents, hooks and rules in one plugin
+garrytan/gstack          Garry Tan's Claude Code setup as slash commands
+addyosmani/agent-skills  Engineering skills from spec to ship
+
+## Behavior
+DietrichGebert/ponytail  Makes the agent write the least code that works
+JuliusBrussee/caveman    Terse replies that cut output tokens
+
+## Design
+nextlevelbuilder/ui-ux-pro-max-skill  UI styles, palettes and font pairings
+
+## Codebase
+Graphify-Labs/graphify         Turns a repo and its docs into a queryable graph
+Egonex-AI/Understand-Anything  Interactive code graphs with guided tours
+
+## Memory
+thedotmack/claude-mem  Memory that carries across sessions
+garrytan/gbrain        Portable agent memory with sources, from Garry Tan
+
+## Research
+Panniantong/Agent-Reach    Lets agents read Twitter, Reddit, YouTube and more
+mvanhorn/last30days-skill  What people said about a topic in the last 30 days
+
+## Collections
+anthropics/skills                   Anthropic's official Agent Skills
+hesreallyhim/awesome-claude-code    Hand-picked Claude Code resources
+anthropics/claude-plugins-official  Anthropic's Claude Code plugin directory
+obra/superpowers-marketplace        Plugin marketplace behind superpowers
+
+## Integrations
+typesafe-ai/skills                    Skills for TypeSafe's System One API
+warpdotdev/claude-code-warp           Warp terminal notifications for Claude Code
+langfuse/claude-observability-plugin  Sends Claude Code traces to Langfuse
+
+# Agents
+
+## Coding
+deepseek-ai/deepseek-harness     DeepSeek's plugin-based agent harness
+anomalyco/opencode               Terminal agent that works with any provider
+anthropics/claude-code           Claude Code. What I use most
+openai/codex                     Codex CLI from OpenAI
+earendil-works/pi                Minimal coding agent and agent toolkit
+google-gemini/gemini-cli         Gemini in the terminal
+OpenHands/OpenHands              Formerly OpenDevin. Coding agents in a sandbox
+cline/cline                      Coding agent for VS Code and CLI
+openinterpreter/openinterpreter  Codex fork tuned for cheap open models
+aaif-goose/goose                 Extensible local agent that edits and runs code
+Aider-AI/aider                   AI pair programming in the terminal
+codewhale-hq/Codewhale           Rust coding agent that works with any model
+esengine/DeepSeek-Reasonix       DeepSeek-first coding agent for terminal and desktop
+can1357/oh-my-pi                 Pi-based coding agent with IDE tooling built in
+charmbracelet/crush              Charm's agent. Nice TUI, as you'd expect
+QwenLM/qwen-code                 Qwen's agent for terminal, IDEs and chat apps
+Kilo-Org/kilocode                Cline-style agent for VS Code, JetBrains and CLI
+xai-org/grok-build               The official Grok coding agent
+PrimeIntellect-ai/prime-agent    Self-improving agent for long coding tasks
+dyad-sh/dyad                     Local AI app builder like Lovable
+1jehuang/jcode                   Fast coding agent harness written in Rust
+SWE-agent/SWE-agent              Fixes GitHub issues using any LM
+avante-corp/avante.nvim          Cursor-style agentic coding inside Neovim
+HKUDS/DeepCode                   Coding agent with a paper-to-code workflow
+CodebuffAI/freebuff              Free ad-supported coding agent from Codebuff
+The-PR-Agent/pr-agent            AI agent for reviewing pull requests
+Kuberwastaken/claurst            Multi-provider terminal coding agent in Rust
+MoonshotAI/kimi-code             Moonshot's Kimi Code CLI
+superagent-ai/grok-cli           Community Grok CLI, not the xAI one
+
+## Personal
+openclaw/openclaw           Self-hosted assistant over WhatsApp, Telegram, Discord. Runs my team's agents
+NousResearch/hermes-agent   Nous Research's agent, the one AgentBay was built for
+bytedance/deer-flow         ByteDance's research agent, runs long tasks in a sandbox
+FoundationAgents/OpenManus  Manus clone from the MetaGPT folks
+HKUDS/nanobot               Small hackable Python agent from HKU
+zhayujie/CowAgent           Used to be chatgpt-on-wechat, now a full agent
+tinyhumansai/openhuman      Lightweight Rust agent harness with desktop app
+AstrBotDevs/AstrBot         Bot framework for QQ, Telegram, Discord and more
+bytedance/UI-TARS-desktop   ByteDance multimodal computer-use agent stack
+khoj-ai/khoj                Self-hosted AI second brain with agents
+agentscope-ai/QwenPaw       Personal assistant you run locally or in cloud
+zeroclaw-labs/zeroclaw      Rust take on OpenClaw, small and fast
+nanocoai/nanoclaw           Container-isolated lightweight OpenClaw alternative
+sipeed/picoclaw             Go, runs on $10 hardware in under 10MB RAM
+Fosowl/agenticSeek          Fully local Manus-style autonomous agent
+kortix-ai/suna              Kortix, formerly Suna. Self-hosted agent workspace
+agent0ai/agent-zero         General-purpose personal agent that uses your computer
+RightNow-AI/openfang        Agent operating system written in Rust
+rowboatlabs/rowboat         AI coworker built on a work knowledge graph
+leon-ai/leon                One of the older assistant projects, still going
+eigent-ai/eigent            Desktop cowork app built on CAMEL agents
+lsdefine/GenericAgent       Minimal self-evolving agent with skill tree
+nearai/ironclaw             Privacy-focused agent OS from NEAR AI
+simular-ai/Agent-S          Computer-use agent that operates like a human
+microsoft/magentic-ui       Microsoft experimental browser and file system agent
+microsoft/UFO               Windows and multi-device desktop automation agent
+
+## Frameworks
+Significant-Gravitas/AutoGPT  The 2023 hype one, now a platform for building agents
+langgenius/dify               Visual platform for agent workflows and RAG
+langflow-ai/langflow          Visual builder for agents and flows
+langchain-ai/langchain        The big one. Integrations for everything
+crewAIInc/crewAI              Framework for role-playing multi-agent crews
+langchain-ai/langgraph        Agent framework with graph-based state
+agno-agi/agno                 Python agent framework, used to be phidata
+agentscope-ai/agentscope      Alibaba's Python framework for production agents
+langchain-ai/deepagents       Batteries-included agent harness built on LangGraph
+openai/openai-agents-python   OpenAI's SDK for multi-agent workflows
+huggingface/smolagents        Minimal agent library where actions are code
+simstudioai/sim               Workspace to build and deploy agent workflows
+mastra-ai/mastra              TS agents and workflows, from the Gatsby folks
+microsoft/semantic-kernel     Microsoft's older SDK, agent-framework replaces it
+vercel/ai                     Vercel's TS SDK. Streaming, tool calls, React hooks
+deepset-ai/haystack           Framework for production LLM pipelines and agents
+letta-ai/letta-code           Stateful agents with memory, formerly MemGPT
+1Panel-dev/MaxKB              Knowledge base Q&A and agent builder from the 1Panel team
+google/adk-python             Google's code-first agent development kit
+coze-dev/coze-studio          Self-hostable Coze, ByteDance's visual agent builder
+pydantic/pydantic-ai          Type-safe Python agent framework from Pydantic
+elizaOS/eliza                 TypeScript framework for autonomous agents
+camel-ai/camel                Multi-agent framework for research and simulation
+pipecat-ai/pipecat            Voice agent pipelines in Python, from Daily
+botpress/botpress             Platform to build and deploy chat agents
+livekit/agents                Voice and video agents on LiveKit
+microsoft/agent-framework     Microsoft's successor to AutoGen and Semantic Kernel
+langchain4j/langchain4j       LangChain for Java
+The-Pocket/PocketFlow         100-line minimalist LLM agent framework
+TEN-framework/ten-framework   Another voice agent framework, same space as pipecat
+alibaba/spring-ai-alibaba     Java agent framework built on Spring AI
+VoltAgent/voltagent           TypeScript agent framework with built-in observability
+
+## Niche
+assafelovic/gpt-researcher    Autonomous agent for deep research reports
+666ghj/MiroFish               Simulates agent swarms to forecast outcomes
+TauricResearch/TradingAgents  Multi-agent simulation of a trading firm
+virattt/dexter                Autonomous agent for financial research
+HKUDS/Vibe-Trading            Research and backtesting agent for markets
+tarang7651/odoo_ai_chatbot    Odoo chatbot that queries and edits records
+
+## Orchestration
+paperclipai/paperclip               Run a company with a team of agents
+stablyai/orca                       Desktop app for running parallel coding agents
+ruvnet/ruflo                        Agent swarms for Claude Code and Codex
+multica-ai/multica                  Assign issues to coding agents like teammates
+herdrdev/herdr                      Terminal runtime for running many coding agents
+OpenBMB/ChatDev                     Agents role-play a software company
+getpaseo/paseo                      Run coding agents in parallel from desktop or phone
+camel-ai/owl                        CAMEL's multi-agent setup for general tasks
+gastownhall/gastown                 Workspace manager for many coding agents
+yc-software/qm                      Multiplayer agent harness for teams, Slack and web
+superset-sh/superset                IDE for running coding agents in parallel
+google/ax                           Declarative orchestrator for agents at cluster scale
+OrchestratorInc/agent-orchestrator  Supervise teams of coding agents through merge
+aden-hive/hive                      Queen agent that fans work out to workers
+omnigent-ai/omnigent                Meta-harness over Claude Code, Codex and others
+lobehub/lobehub                     Runs and schedules a team of agents for you
+
+## Workspaces
+odysseus-dev/odysseus        Self-hosted chat, agents, notes, email and calendar in one app
+nexu-io/open-design          Local-first workspace for design agents
+block/buzz                   Channels where people and agents work together
+outsourc-e/hermes-workspace  Web UI for Hermes: chat, terminal, memory, skills
+yetone/cumora                Team chat with agents as members
+
+## Subagents
+msitarzewski/agency-agents  Over a hundred specialist agent personas
+
+# Tools
+
+## Models
+ollama/ollama      Run open models locally. Serves my Mac Studio
+ml-explore/mlx-lm  Run and fine-tune LLMs on Apple Silicon
+p-e-w/heretic      Removes refusals from open-weight models
+
+## Gateways
+diegosouzapw/OmniRoute  One endpoint for hundreds of providers, free tiers included
+BerriAI/litellm         One OpenAI-style API for 100+ providers. Sits in front of my local models
+
+## Context
+headroomlabs-ai/headroom  Compresses tool output before the model sees it. Haven't tried it yet
+volcengine/OpenViking     Context database for agent memory and RAG
+
+## Browser
+browser-use/browser-use  Lets agents drive a real browser
+
+## Observability
+langfuse/langfuse  Tracing and evals for LLM apps
+
+# Projects
+
+## Media
+harry0703/MoneyPrinterTurbo  Short videos from a topic, end to end
+jamiepine/voicebox           Voice cloning and dictation studio
+brahmkshatriya/echo          Extension-based music player for Android
+
+## OSINT
+koala73/worldmonitor        Real-time global news and intelligence dashboard
+bilawalsidhu/gods-eye-view  Spy satellite simulator running on real data
+
+## Misc
+FareedKhan-dev/kimi-k3-in-c  2.78T Kimi K3 on one CPU in 8 GB of RAM
+trycompai/crm                CRM meant to be driven by agents
+deskflow/deskflow            One keyboard and mouse across several computers
