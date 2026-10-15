@@ -37,6 +37,7 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 | Repo | Stars | About |
 |---|--:|---|
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 136k | UI styles, palettes and font pairings |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 97k | Keeps agents from shipping generic AI-looking pages |
 
 ### Codebase
 
