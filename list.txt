@@ -15,6 +15,7 @@ JuliusBrussee/caveman    Terse replies that cut output tokens
 
 ## Design
 nextlevelbuilder/ui-ux-pro-max-skill  UI styles, palettes and font pairings
+Leonxlnx/taste-skill                  Keeps agents from shipping generic AI-looking pages
 
 ## Codebase
 Graphify-Labs/graphify         Turns a repo and its docs into a queryable graph
