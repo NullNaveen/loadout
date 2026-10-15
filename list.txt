@@ -3,42 +3,119 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 # Skills
 
 ## Workflow
-obra/superpowers         Brainstorm, write a plan, build it with subagents
-mattpocock/skills        TDD, grilling, specs and code review
-affaan-m/ECC             Skills, agents, hooks and rules in one plugin
-garrytan/gstack          Garry Tan's Claude Code setup as slash commands
-addyosmani/agent-skills  Engineering skills from spec to ship
+obra/superpowers                                     Brainstorm, write a plan, build it with subagents
+mattpocock/skills                                    TDD, grilling, specs and code review
+affaan-m/ECC                                         Skills, agents, hooks and rules in one plugin
+garrytan/gstack                                      Garry Tan's Claude Code setup as slash commands
+addyosmani/agent-skills                              Engineering skills from spec to ship
+github/spec-kit                                      Spec-driven development kit from GitHub, works with any agent
+Fission-AI/OpenSpec                                  Agree on a spec before the agent writes code
+bmad-code-org/BMAD-METHOD                            Agile method that takes an idea through plan and build
+Yeachan-Heo/oh-my-claudecode                         Multi-agent team orchestration plugin for Claude Code
+Yeachan-Heo/oh-my-codex                              Hooks, agent teams and a HUD for Codex
+cloudflare/security-audit-skill                      Multi-phase security audit that verifies its findings
+eyaltoledano/claude-task-master                      Breaks a PRD into tasks the agent works through
+OthmanAdi/planning-with-files                        Plan files on disk that survive /clear and compaction
+EveryInc/compound-engineering-plugin                 Plan, build, review loop that writes down what it learned
+SuperClaude-Org/SuperClaude_Framework                Personas, commands and modes layered on Claude Code
+muratcankoylan/Agent-Skills-for-Context-Engineering  Skills on context engineering for building agent systems
 
 ## Behavior
-DietrichGebert/ponytail  Makes the agent write the least code that works
-JuliusBrussee/caveman    Terse replies that cut output tokens
+DietrichGebert/ponytail            Makes the agent write the least code that works
+JuliusBrussee/caveman              Terse replies that cut output tokens
+multica-ai/andrej-karpathy-skills  Karpathy's LLM coding pitfalls turned into one CLAUDE.md
+ayghri/i-have-adhd                 Makes the agent lead with the answer, steps numbered
+blader/humanizer                   Rewrites text to remove the signs of AI writing
 
 ## Design
 nextlevelbuilder/ui-ux-pro-max-skill  UI styles, palettes and font pairings
 Leonxlnx/taste-skill                  Keeps agents from shipping generic AI-looking pages
+VoltAgent/awesome-design-md           DESIGN.md files from real brands to drop into a project
+pbakaus/impeccable                    24 design commands plus a detector for AI frontend tells
+emilkowalski/skills                   Animation and UI craft rules from Emil Kowalski
+Nutlope/hallmark                      Anti-slop design skill from Together AI with 21 themes
+alchaincyf/huashu-design              HTML prototypes, slides and animations with built-in design review
+greensock/gsap-skills                 Official GSAP skills so agents animate correctly
+millionco/react-doctor                Lints the React your agent writes, also runs in CI
+tw93/Kami                             Layout templates for agent-made PDFs, images and PowerPoint
+oso95/scroll-world                    Scroll-driven 3D fly-through landing pages, needs paid video APIs
 
 ## Codebase
 Graphify-Labs/graphify         Turns a repo and its docs into a queryable graph
 Egonex-AI/Understand-Anything  Interactive code graphs with guided tours
 
 ## Memory
-thedotmack/claude-mem  Memory that carries across sessions
-garrytan/gbrain        Portable agent memory with sources, from Garry Tan
+thedotmack/claude-mem       Memory that carries across sessions
+garrytan/gbrain             Portable agent memory with sources, from Garry Tan
+gastownhall/beads           Dependency-graph issue tracker agents use as memory
+tigerless-labs/autoharness  Learns skills from your sessions, prunes the stale ones
 
 ## Research
-Panniantong/Agent-Reach    Lets agents read Twitter, Reddit, YouTube and more
-mvanhorn/last30days-skill  What people said about a topic in the last 30 days
+Panniantong/Agent-Reach             Lets agents read Twitter, Reddit, YouTube and more
+mvanhorn/last30days-skill           What people said about a topic in the last 30 days
+Imbad0202/academic-research-skills  Research, write, review and revise academic papers
+K-Dense-AI/scientific-agent-skills  177 science skills plus access to research databases
 
 ## Collections
-anthropics/skills                   Anthropic's official Agent Skills
-hesreallyhim/awesome-claude-code    Hand-picked Claude Code resources
-anthropics/claude-plugins-official  Anthropic's Claude Code plugin directory
-obra/superpowers-marketplace        Plugin marketplace behind superpowers
+anthropics/skills                        Anthropic's official Agent Skills
+hesreallyhim/awesome-claude-code         Hand-picked Claude Code resources
+anthropics/claude-plugins-official       Anthropic's Claude Code plugin directory
+obra/superpowers-marketplace             Plugin marketplace behind superpowers
+ComposioHQ/awesome-claude-skills         Large curated list of Claude skills and plugins
+PatrickJS/awesome-cursorrules            Cursor rule files for most languages and frameworks
+wshobson/agents                          Plugin marketplace of agents, skills and commands for many harnesses
+github/awesome-copilot                   Community Copilot agents, skills and instructions
+anthropics/financial-services            Finance agents and plugins from Anthropic
+VoltAgent/awesome-agent-skills           Index of skills from official dev teams and community
+vercel-labs/skills                       The npx skills CLI, installs skills into most agents
+davila7/claude-code-templates            CLI to browse and install agents, commands and hooks
+vercel-labs/agent-skills                 React performance and UI review skills from Vercel
+anthropics/knowledge-work-plugins        Cowork plugins for sales, data, legal and more
+alirezarezvani/claude-skills             Hundreds of skills across engineering, product and marketing
+VoltAgent/awesome-claude-code-subagents  161 Claude Code subagents, installable as plugins
+composio-community/awesome-codex-skills  Curated list of practical Codex skills
+Jeffallan/claude-skills                  67 skills for full-stack web development
+awesome-opencode/awesome-opencode        Plugins, themes and agents for OpenCode
 
 ## Integrations
 typesafe-ai/skills                    Skills for TypeSafe's System One API
 warpdotdev/claude-code-warp           Warp terminal notifications for Claude Code
 langfuse/claude-observability-plugin  Sends Claude Code traces to Langfuse
+kepano/obsidian-skills                Teaches agents Obsidian CLI, Bases and Canvas
+openai/codex-plugin-cc                Call Codex from Claude Code for reviews or tasks
+google/skills                         Skills for Google Cloud and other Google products
+huggingface/skills                    Hugging Face skills for training, datasets and the Hub
+
+## Diagrams
+tt-a1i/archify                       Turns an idea, plan or codebase into an interactive diagram
+cathrynlavery/diagram-design         Editorial HTML and SVG diagrams in your brand, no Mermaid
+wheresryan22/anatomy                 Explains tech concepts as interactive isometric machine figures
+yizhiyanhua-ai/fireworks-tech-graph  Technical diagrams as SVG or PNG from plain English
+nicobailon/visual-explainer          HTML pages and slides for diffs, plans and recaps
+Agents365-ai/drawio-skill            Editable draw.io architecture diagrams from code, Terraform or SQL
+
+## Media
+calesthio/OpenMontage                  Full video production pipeline driven by your coding agent
+heygen-com/hyperframes                 HTML to MP4 renderer, ships as an agent plugin
+browser-use/video-use                  Edits a folder of raw footage into a finished video
+JimLiu/baoyu-skills                    Cover images, infographics, comics and posting to X or WeChat
+latent-spaces/brag                     Makes a short launch video for the project you built
+ConardLi/garden-skills                 Web design, image prompts and short video skills
+helloianneo/ian-xiaohei-illustrations  Hand-drawn style illustrations for Chinese articles, Codex skill
+Vincentwei1021/video-shotcraft         Cinematic product videos in Remotion from shot recipe cards
+
+## Slides
+hugohe3/ppt-master            Native editable PowerPoint decks from a document or topic
+zarazhangrui/frontend-slides  Single-file HTML slide decks, can also convert PowerPoint
+op7418/guizang-ppt-skill      Magazine and Swiss style HTML decks
+
+## Marketing
+coreyhaines31/marketingskills  CRO, copywriting, SEO and growth skills
+AgriciDaniel/claude-seo        SEO audits with parallel subagents, schema and E-E-A-T
+AgriciDaniel/claude-ads        Paid media audits across twelve ad platforms
+
+## Security
+zhaoxuya520/reverse-skill  Routes RE and pentest tasks to the right tools
 
 # Agents
 
@@ -109,9 +186,9 @@ langchain-ai/langchain        The big one. Integrations for everything
 crewAIInc/crewAI              Framework for role-playing multi-agent crews
 langchain-ai/langgraph        Agent framework with graph-based state
 agno-agi/agno                 Python agent framework, used to be phidata
-agentscope-ai/agentscope      Alibaba's Python framework for production agents
+agentscope-ai/agentscope      Python framework for production agents, from Alibaba
 langchain-ai/deepagents       Batteries-included agent harness built on LangGraph
-openai/openai-agents-python   OpenAI's SDK for multi-agent workflows
+openai/openai-agents-python   OpenAI Agents SDK, handoffs and guardrails built in
 huggingface/smolagents        Minimal agent library where actions are code
 simstudioai/sim               Workspace to build and deploy agent workflows
 mastra-ai/mastra              TS agents and workflows, from the Gatsby folks
@@ -120,7 +197,7 @@ vercel/ai                     Vercel's TS SDK. Streaming, tool calls, React hook
 deepset-ai/haystack           Framework for production LLM pipelines and agents
 letta-ai/letta-code           Stateful agents with memory, formerly MemGPT
 1Panel-dev/MaxKB              Knowledge base Q&A and agent builder from the 1Panel team
-google/adk-python             Google's code-first agent development kit
+google/adk-python             Agent Development Kit from Google, code-first
 coze-dev/coze-studio          Self-hostable Coze, ByteDance's visual agent builder
 pydantic/pydantic-ai          Type-safe Python agent framework from Pydantic
 elizaOS/eliza                 TypeScript framework for autonomous agents
@@ -128,7 +205,7 @@ camel-ai/camel                Multi-agent framework for research and simulation
 pipecat-ai/pipecat            Voice agent pipelines in Python, from Daily
 botpress/botpress             Platform to build and deploy chat agents
 livekit/agents                Voice and video agents on LiveKit
-microsoft/agent-framework     Microsoft's successor to AutoGen and Semantic Kernel
+microsoft/agent-framework     Successor to AutoGen and Semantic Kernel
 langchain4j/langchain4j       LangChain for Java
 The-Pocket/PocketFlow         100-line minimalist LLM agent framework
 TEN-framework/ten-framework   Another voice agent framework, same space as pipecat
@@ -174,23 +251,168 @@ msitarzewski/agency-agents  Over a hundred specialist agent personas
 # Tools
 
 ## Models
-ollama/ollama      Run open models locally. Serves my Mac Studio
-ml-explore/mlx-lm  Run and fine-tune LLMs on Apple Silicon
-p-e-w/heretic      Removes refusals from open-weight models
+ollama/ollama             Run open models locally. Serves my Mac Studio
+ml-explore/mlx-lm         Run and fine-tune LLMs on Apple Silicon
+p-e-w/heretic             Removes refusals from open-weight models
+open-webui/open-webui     Self-hosted chat UI for Ollama and OpenAI APIs
+ggml-org/llama.cpp        LLM inference in plain C/C++, home of GGUF
+vllm-project/vllm         High-throughput serving engine for LLMs
+unslothai/unsloth         Fast local fine-tuning, now with a UI
+hiyouga/LlamaFactory      Fine-tune 100+ LLMs and VLMs from one config
+mudler/LocalAI            Drop-in OpenAI API for local models of every kind
+exo-explore/exo           Splits big models across your own devices
+oobabooga/textgen         Formerly text-generation-webui, desktop app for local LLMs
+janhq/jan                 Offline ChatGPT-style desktop app for local models
+microsoft/BitNet          Inference for 1-bit LLMs on CPUs
+AlexsJones/llmfit         Tells you which models fit your hardware
+sgl-project/sglang        Fast serving framework for LLMs and multimodal models
+mozilla-ai/llamafile      Ship and run a model as one file
+mlc-ai/mlc-llm            Compiles LLMs to run natively on any device
+jundot/omlx               MLX inference server with SSD caching, menu bar app
+kvcache-ai/ktransformers  CPU and GPU hybrid inference for huge MoE models
+NVIDIA/TensorRT-LLM       Fast inference on NVIDIA GPUs
 
 ## Gateways
-diegosouzapw/OmniRoute  One endpoint for hundreds of providers, free tiers included
-BerriAI/litellm         One OpenAI-style API for 100+ providers. Sits in front of my local models
+diegosouzapw/OmniRoute         One endpoint for hundreds of providers, free tiers included
+BerriAI/litellm                One OpenAI-style API for 100+ providers. Sits in front of my local models
+farion1231/cc-switch           Desktop app to swap providers across Claude Code and Codex
+router-for-me/CLIProxyAPI      Wraps CLI subscriptions like Codex and Claude Code as APIs
+QuantumNous/new-api            Model hub converting between OpenAI, Claude and Gemini formats
+musistudio/claude-code-router  Routes Claude Code requests to any model
+decolua/9router                Free tier router for coding agents, OmniRoute's upstream
+lidge-jun/opencodex            Provider proxy so Codex and Claude Code use any LLM
+Portkey-AI/gateway             Gateway with routing, fallbacks and guardrails
 
 ## Context
 headroomlabs-ai/headroom  Compresses tool output before the model sees it. Haven't tried it yet
 volcengine/OpenViking     Context database for agent memory and RAG
+rtk-ai/rtk                Proxy that trims dev command output to save tokens
+upstash/context7          Feeds current library docs to agents
+mksglu/context-mode       MCP server that keeps raw tool output out of context
 
 ## Browser
-browser-use/browser-use  Lets agents drive a real browser
+browser-use/browser-use             Lets agents drive a real browser
+microsoft/playwright                The browser automation library most agent tools build on
+ChromeDevTools/chrome-devtools-mcp  Chrome DevTools for agents: console, network, perf traces
+vercel-labs/agent-browser           Browser automation CLI built for agents
+microsoft/playwright-mcp            Playwright over MCP using accessibility snapshots
+lightpanda-io/browser               Headless browser written in Zig, made for agents
+jackwener/OpenCLI                   Turns websites into CLIs using your logged-in browser
+alibaba/page-agent                  In-page JavaScript agent that drives web UIs
+browserbase/stagehand               Browserbase SDK mixing code with natural language actions
+Skyvern-AI/skyvern                  Automates browser workflows with LLMs and vision
+lexmount/moli                       Rust headless browser kernel for agents, not a Chromium wrapper
+browser-use/browser-harness         Hooks Claude Code or Codex into your real Chrome
+citrolabs/ego-lite                  macOS browser where agents reuse your logins
+browserless/browserless             Headless Chrome in Docker, self-hosted or cloud
 
 ## Observability
-langfuse/langfuse  Tracing and evals for LLM apps
+langfuse/langfuse       Tracing and evals for LLM apps
+jarrodwatts/claude-hud  Statusline showing context, tools and running agents
+mlflow/mlflow           ML platform that now traces and evaluates agents
+promptfoo/promptfoo     Prompt, agent and RAG testing plus red teaming
+comet-ml/opik           Tracing, evals and dashboards for LLM apps
+steipete/CodexBar       Menu bar usage stats for Codex and Claude Code
+ccusage/ccusage         Token usage and cost reports from agent CLIs
+confident-ai/deepeval   Pytest-style evaluation framework for LLM apps
+Arize-ai/phoenix        Tracing and evals UI built on OpenTelemetry
+
+## Security
+morluto/rea          MCP that reverse engineers apps and binaries
+NVIDIA/SkillSpector  Scans skills for prompt injection and exfiltration before install
+
+## Web
+firecrawl/firecrawl           Crawls and scrapes sites into LLM-ready markdown
+D4Vinci/Scrapling             Adaptive Python scraping from one request to full crawls
+unclecode/crawl4ai            Crawler that outputs clean Markdown for LLMs
+searxng/searxng               Self-hosted metasearch, handy as an agent search backend
+ScrapeGraphAI/Scrapegraph-ai  LLM-driven scraping pipelines in Python
+apify/crawlee                 Crawling and browser automation library from Apify
+getmaxun/maxun                No-code web extraction into structured APIs
+jina-ai/reader                Prefix any URL with r.jina.ai for clean text
+
+## Documents
+microsoft/markitdown                       Converts Office files and PDFs to Markdown
+PaddlePaddle/PaddleOCR                     OCR toolkit that turns PDFs and images into data
+opendatalab/MinerU                         Extracts clean markdown from messy PDFs
+docling-project/docling                    Parses PDFs and office docs for RAG
+datalab-to/marker                          Fast, accurate PDF to Markdown and JSON
+opendataloader-project/opendataloader-pdf  PDF parser that outputs AI-ready data
+Unstructured-IO/unstructured               ETL for turning messy documents into structured data
+
+## MCP
+punkpeye/awesome-mcp-servers         Big curated directory of MCP servers
+modelcontextprotocol/servers         Reference MCP servers from the protocol maintainers
+github/github-mcp-server             Official MCP server for repos, issues and PRs
+ahujasid/mcp-for-blender             Drive Blender 3D scenes from any LLM
+PrefectHQ/fastmcp                    Pythonic way to build MCP servers and clients
+modelcontextprotocol/python-sdk      Official Python SDK for MCP
+czlonkowski/n8n-mcp                  Lets coding agents build n8n workflows for you
+googleapis/mcp-toolbox               MCP server for databases, from Google
+GLips/Figma-Context-MCP              Gives coding agents Figma layout data over MCP
+modelcontextprotocol/typescript-sdk  TypeScript SDK for MCP servers and clients
+apify/apify-mcp-server               Apify scrapers and actors exposed over MCP
+modelcontextprotocol/inspector       Visual debugger for testing MCP servers
+mcp-use/mcp-use                      Full-stack framework for MCP apps and servers
+wonderwhy-er/DesktopCommanderMCP     Terminal, file search and diff edits over MCP
+
+## RAG
+infiniflow/ragflow     RAG engine with deep document understanding
+run-llama/llama_index  Document processing and RAG framework
+HKUDS/LightRAG         Simple, fast graph-based RAG from HKU
+VectifyAI/PageIndex    Reasoning-based RAG over document trees, no vectors
+Tencent/WeKnora        Document RAG platform with a reasoning agent
+tobi/qmd               Local CLI search engine for your notes and docs
+HKUDS/RAG-Anything     Multimodal RAG built on top of LightRAG
+StarTrail-org/LEANN    Tiny-footprint local RAG over everything on your machine
+
+## Codebase
+colbymchenry/codegraph        Local code graph over MCP, syncs on edits
+DeusData/codebase-memory-mcp  Indexes repos into a code graph served over MCP
+tirth8205/code-review-graph   Local code graph so agents read less during reviews
+oraios/serena                 Symbol-level code search and editing over MCP
+yamadashy/repomix             Packs a whole repo into one AI-friendly file
+coderamp-labs/gitingest       Prompt-friendly digest of any GitHub repo
+zilliztech/claude-context     Semantic code search MCP for Claude Code
+trailhq/Trail-Code            Code map plus team learnings for coding agents
+
+## Memory
+mem0ai/mem0                          Drop-in memory layer for agents
+MemPalace/mempalace                  Local verbatim memory with scoped semantic search
+vectorize-io/hindsight               Agent memory that learns from past runs
+topoteretes/cognee                   Long-term agent memory built on knowledge graphs
+getzep/graphiti                      Temporal knowledge graphs that track changing facts
+supermemoryai/supermemory            Memory and context engine you can run locally
+rohitg00/agentmemory                 Persistent memory built for coding agents
+TencentCloud/TencentDB-Agent-Memory  Team memory hub shared across agents, works with OpenClaw
+screenpipe/screenpipe                Records your screen so agents have work context
+MemoriLabs/Memori                    Turns agent chats and runs into reusable memory
+memvid/memvid                        Single-file memory layer instead of a RAG pipeline
+NevaMind-AI/memU                     Personal memory shared across agents
+EverMind-AI/EverOS                   Local Markdown memory that follows you across agents
+MemTensor/MemOS                      Memory OS with hybrid retrieval and skill reuse
+
+## Vector DBs
+milvus-io/milvus    Cloud-native vector database for large-scale search
+qdrant/qdrant       Rust vector database and search engine
+chroma-core/chroma  Embedding database many agent memory tools default to
+pgvector/pgvector   Vector similarity search inside Postgres
+weaviate/weaviate   Vector database storing objects alongside embeddings
+
+## Integrations
+iOfficeAI/OfficeCLI  Lets agents edit Word, Excel and PowerPoint files
+ComposioHQ/composio  Thousand-plus app toolkits with auth handled for agents
+
+## Computer Use
+trycua/cua              Sandboxes and drivers for computer-use agents across OSes
+microsoft/OmniParser    Parses screenshots into elements for GUI agents
+web-infra-dev/midscene  Vision-driven UI automation for web, Android and iOS
+
+## Sandboxes
+NVIDIA/NemoClaw                Runs OpenClaw and Hermes inside NVIDIA's OpenShell
+NVIDIA/OpenShell               Sandboxed runtime for autonomous agents
+opensandbox-group/OpenSandbox  Sandbox runtime for agents, started at Alibaba
+e2b-dev/E2B                    Cloud sandboxes where agents run code safely
 
 # Projects
 
