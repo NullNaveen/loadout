@@ -402,6 +402,7 @@ weaviate/weaviate   Vector database storing objects alongside embeddings
 ## Integrations
 iOfficeAI/OfficeCLI  Lets agents edit Word, Excel and PowerPoint files
 ComposioHQ/composio  Thousand-plus app toolkits with auth handled for agents
+HKUDS/CLI-Anything   Generated CLIs that let agents drive Blender, GIMP, QGIS and more
 
 ## Computer Use
 trycua/cua              Sandboxes and drivers for computer-use agents across OSes
