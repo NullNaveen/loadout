@@ -11,10 +11,10 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 | Repo | Stars | About |
 |---|--:|---|
 | [obra/superpowers](https://github.com/obra/superpowers) | 300k | Brainstorm, write a plan, build it with subagents |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 292k | TDD, grilling, specs and code review |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 280k | Skills, agents, hooks and rules in one plugin |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 293k | TDD, grilling, specs and code review |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 281k | Skills, agents, hooks and rules in one plugin |
 | [github/spec-kit](https://github.com/github/spec-kit) | 141k | Spec-driven development kit from GitHub, works with any agent |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | 136k | Garry Tan's Claude Code setup as slash commands |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | 137k | Garry Tan's Claude Code setup as slash commands |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 107k | Engineering skills from spec to ship |
 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 72k | Agree on a spec before the agent writes code |
 | [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | 54k | Agile method that takes an idea through plan and build |
@@ -32,10 +32,10 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 | Repo | Stars | About |
 |---|--:|---|
 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 220k | Karpathy's LLM coding pitfalls turned into one CLAUDE.md |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 164k | Makes the agent write the least code that works |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 112k | Terse replies that cut output tokens |
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 57k | Makes the agent lead with the answer, steps numbered |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 165k | Makes the agent write the least code that works |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 113k | Terse replies that cut output tokens |
 | [blader/humanizer](https://github.com/blader/humanizer) | 57k | Rewrites text to remove the signs of AI writing |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 57k | Makes the agent lead with the answer, steps numbered |
 
 ### Collections
 
@@ -48,11 +48,11 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 | [wshobson/agents](https://github.com/wshobson/agents) | 41k | Plugin marketplace of agents, skills and commands for many harnesses |
 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 40k | Community Copilot agents, skills and instructions |
 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 40k | Finance agents and plugins from Anthropic |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 38k | Anthropic's Claude Code plugin directory |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 40k | Anthropic's Claude Code plugin directory |
 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 36k | Index of skills from official dev teams and community |
 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | 35k | The npx skills CLI, installs skills into most agents |
 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 33k | CLI to browse and install agents, commands and hooks |
-| [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | 32k | React performance and UI review skills from Vercel |
+| [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | 33k | React performance and UI review skills from Vercel |
 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 30k | Cowork plugins for sales, data, legal and more |
 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 28k | Hundreds of skills across engineering, product and marketing |
 | [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | 26k | 161 Claude Code subagents, installable as plugins |
@@ -67,9 +67,9 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 |---|--:|---|
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 136k | UI styles, palettes and font pairings |
 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 122k | DESIGN.md files from real brands to drop into a project |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 97k | Keeps agents from shipping generic AI-looking pages |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 81k | 24 design commands plus a detector for AI frontend tells |
-| [emilkowalski/skills](https://github.com/emilkowalski/skills) | 46k | Animation and UI craft rules from Emil Kowalski |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 98k | Keeps agents from shipping generic AI-looking pages |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 82k | 24 design commands plus a detector for AI frontend tells |
+| [emilkowalski/skills](https://github.com/emilkowalski/skills) | 47k | Animation and UI craft rules from Emil Kowalski |
 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 30k | Anti-slop design skill from Together AI with 21 themes |
 | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | 25k | HTML prototypes, slides and animations with built-in design review |
 | [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | 16k | Official GSAP skills so agents animate correctly |
@@ -82,7 +82,7 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 | Repo | Stars | About |
 |---|--:|---|
 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 127k | Turns a repo and its docs into a queryable graph |
-| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 86k | Interactive code graphs with guided tours |
+| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 87k | Interactive code graphs with guided tours |
 
 ### Memory
 
@@ -100,7 +100,7 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 98k | Lets agents read Twitter, Reddit, YouTube and more |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 64k | What people said about a topic in the last 30 days |
 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 52k | Research, write, review and revise academic papers |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 50k | 177 science skills plus access to research databases |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 51k | 177 science skills plus access to research databases |
 
 ### Diagrams
 
@@ -108,7 +108,7 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 |---|--:|---|
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 84k | Turns an idea, plan or codebase into an interactive diagram |
 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 56k | Editorial HTML and SVG diagrams in your brand, no Mermaid |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 12k | Explains tech concepts as interactive isometric machine figures |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 13k | Explains tech concepts as interactive isometric machine figures |
 | [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) | 12k | Technical diagrams as SVG or PNG from plain English |
 | [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) | 10k | HTML pages and slides for diffs, plans and recaps |
 | [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) | 10k | Editable draw.io architecture diagrams from code, Terraform or SQL |
@@ -117,8 +117,8 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 
 | Repo | Stars | About |
 |---|--:|---|
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 68k | Full video production pipeline driven by your coding agent |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 64k | HTML to MP4 renderer, ships as an agent plugin |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 69k | Full video production pipeline driven by your coding agent |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 65k | HTML to MP4 renderer, ships as an agent plugin |
 | [browser-use/video-use](https://github.com/browser-use/video-use) | 29k | Edits a folder of raw footage into a finished video |
 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 27k | Cover images, infographics, comics and posting to X or WeChat |
 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | 16k | Makes a short launch video for the project you built |
@@ -130,7 +130,7 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 
 | Repo | Stars | About |
 |---|--:|---|
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 62k | Native editable PowerPoint decks from a document or topic |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 63k | Native editable PowerPoint decks from a document or topic |
 | [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 31k | Single-file HTML slide decks, can also convert PowerPoint |
 | [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 28k | Magazine and Swiss style HTML decks |
 
@@ -152,7 +152,7 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 | [huggingface/skills](https://github.com/huggingface/skills) | 11k | Hugging Face skills for training, datasets and the Hub |
 | [typesafe-ai/skills](https://github.com/typesafe-ai/skills) | 2.7k | Skills for TypeSafe's System One API |
 | [warpdotdev/claude-code-warp](https://github.com/warpdotdev/claude-code-warp) | 233 | Warp terminal notifications for Claude Code |
-| [langfuse/claude-observability-plugin](https://github.com/langfuse/claude-observability-plugin) | 26 | Sends Claude Code traces to Langfuse |
+| [langfuse/claude-observability-plugin](https://github.com/langfuse/claude-observability-plugin) | 28 | Sends Claude Code traces to Langfuse |
 
 ### Security
 
@@ -197,11 +197,11 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 
 | Repo | Stars | About |
 |---|--:|---|
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 250k | DeepSeek's plugin-based agent harness |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 251k | DeepSeek's plugin-based agent harness |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 214k | Terminal agent that works with any provider |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 151k | Claude Code. What I use most |
 | [openai/codex](https://github.com/openai/codex) | 129k | Codex CLI from OpenAI |
-| [earendil-works/pi](https://github.com/earendil-works/pi) | 115k | Minimal coding agent and agent toolkit |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | 116k | Minimal coding agent and agent toolkit |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 107k | Gemini in the terminal |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 91k | Formerly OpenDevin. Coding agents in a sandbox |
 | [cline/cline](https://github.com/cline/cline) | 70k | Coding agent for VS Code and CLI |
@@ -275,7 +275,7 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 | Repo | Stars | About |
 |---|--:|---|
 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 111k | Multi-agent simulation of a trading firm |
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 79k | Simulates agent swarms to forecast outcomes |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 80k | Simulates agent swarms to forecast outcomes |
 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 36k | Research and backtesting agent for markets |
 | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | 30k | Autonomous agent for deep research reports |
 | [virattt/dexter](https://github.com/virattt/dexter) | 28k | Autonomous agent for financial research |
@@ -285,8 +285,8 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 
 | Repo | Stars | About |
 |---|--:|---|
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 102k | Run a company with a team of agents |
-| [stablyai/orca](https://github.com/stablyai/orca) | 93k | Desktop app for running parallel coding agents |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 103k | Run a company with a team of agents |
+| [stablyai/orca](https://github.com/stablyai/orca) | 94k | Desktop app for running parallel coding agents |
 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 83k | Runs and schedules a team of agents for you |
 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 75k | Agent swarms for Claude Code and Codex |
 | [multica-ai/multica](https://github.com/multica-ai/multica) | 53k | Assign issues to coding agents like teammates |
@@ -318,7 +318,7 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 
 | Repo | Stars | About |
 |---|--:|---|
-| [morluto/rea](https://github.com/morluto/rea) | 261k | MCP that reverse engineers apps and binaries |
+| [morluto/rea](https://github.com/morluto/rea) | 280k | MCP that reverse engineers apps and binaries |
 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 20k | Scans skills for prompt injection and exfiltration before install |
 
 ### Web
@@ -355,7 +355,7 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 131k | LLM inference in plain C/C++, home of GGUF |
 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 94k | High-throughput serving engine for LLMs |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 78k | Fast local fine-tuning, now with a UI |
-| [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 75k | Fine-tune 100+ LLMs and VLMs from one config |
+| [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 76k | Fine-tune 100+ LLMs and VLMs from one config |
 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 50k | Drop-in OpenAI API for local models of every kind |
 | [exo-explore/exo](https://github.com/exo-explore/exo) | 48k | Splits big models across your own devices |
 | [oobabooga/textgen](https://github.com/oobabooga/textgen) | 48k | Formerly text-generation-webui, desktop app for local LLMs |
@@ -440,7 +440,7 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 
 | Repo | Stars | About |
 |---|--:|---|
-| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 83k | Proxy that trims dev command output to save tokens |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 84k | Proxy that trims dev command output to save tokens |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 75k | Compresses tool output before the model sees it. Haven't tried it yet |
 | [upstash/context7](https://github.com/upstash/context7) | 63k | Feeds current library docs to agents |
 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 40k | Context database for agent memory and RAG |
@@ -478,6 +478,14 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 | [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | 13k | Local Markdown memory that follows you across agents |
 | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | 12k | Memory OS with hybrid retrieval and skill reuse |
 
+### Integrations
+
+| Repo | Stars | About |
+|---|--:|---|
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 53k | Generated CLIs that let agents drive Blender, GIMP, QGIS and more |
+| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 32k | Lets agents edit Word, Excel and PowerPoint files |
+| [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 31k | Thousand-plus app toolkits with auth handled for agents |
+
 ### Vector DBs
 
 | Repo | Stars | About |
@@ -502,13 +510,6 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 | [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 19k | Pytest-style evaluation framework for LLM apps |
 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12k | Tracing and evals UI built on OpenTelemetry |
 
-### Integrations
-
-| Repo | Stars | About |
-|---|--:|---|
-| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 32k | Lets agents edit Word, Excel and PowerPoint files |
-| [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 31k | Thousand-plus app toolkits with auth handled for agents |
-
 ### Computer Use
 
 | Repo | Stars | About |
@@ -532,7 +533,7 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 
 | Repo | Stars | About |
 |---|--:|---|
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 131k | Short videos from a topic, end to end |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 132k | Short videos from a topic, end to end |
 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 58k | Voice cloning and dictation studio |
 | [brahmkshatriya/echo](https://github.com/brahmkshatriya/echo) | 3.6k | Extension-based music player for Android |
 
@@ -540,7 +541,7 @@ Skills, agents, tools and random projects I use or keep an eye on. Sorted by sta
 
 | Repo | Stars | About |
 |---|--:|---|
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 88k | Real-time global news and intelligence dashboard |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 89k | Real-time global news and intelligence dashboard |
 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 57k | Spy satellite simulator running on real data |
 
 ### Misc
