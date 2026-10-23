@@ -48,6 +48,7 @@ millionco/react-doctor                Lints the React your agent writes, also ru
 tw93/Kami                             Layout templates for agent-made PDFs, images and PowerPoint
 oso95/scroll-world                    Scroll-driven 3D fly-through landing pages, needs paid video APIs
 img2threejs/img2threejs               Agent skill that rebuilds an image as Three.js code
+ibelick/ui-skills                     UI skills for design engineers
 
 ## Codebase
 Graphify-Labs/graphify         Turns a repo and its docs into a queryable graph
@@ -69,6 +70,7 @@ Leey21/awesome-ai-research-writing             Paper writing prompts and skills 
 wanshuiyin/Auto-claude-code-research-in-sleep  Markdown skills for autonomous ML research
 xbtlin/ai-berkshire                            Value investing research skills for Claude Code and Codex
 Orchestra-Research/AI-Research-SKILLs          ML research and engineering skills, from training to papers
+HKUSTDial/Supervisor-Skills                    Research supervisor skills from idea to submission, in Chinese
 
 ## Collections
 anthropics/skills                        Anthropic's official Agent Skills
@@ -227,6 +229,8 @@ danielmiessler/LifeOS       Personal AI harness on Claude Code, formerly PAI
 langbot-app/LangBot         Agent bots for Discord, Slack, Telegram, WeChat and more
 HKUDS/OpenHarness           Agent harness with a built-in personal agent
 open-jarvis/OpenJarvis      Local-first personal AI on your own devices, from Stanford
+lss233/kirara-ai            Chatbot for WeChat, QQ and Telegram on any model
+TencentCloud/Octop          Self-hosted multi-user assistant from Tencent Cloud
 
 ## Frameworks
 Significant-Gravitas/AutoGPT  The 2023 hype one, now a platform for building agents
@@ -274,33 +278,35 @@ thesysdev/openui              Streaming language and renderers for model-generat
 github/copilot-sdk            Embed the GitHub Copilot agent in your own apps
 
 ## Niche
-assafelovic/gpt-researcher      Autonomous agent for deep research reports
-666ghj/MiroFish                 Simulates agent swarms to forecast outcomes
-TauricResearch/TradingAgents    Multi-agent simulation of a trading firm
-virattt/dexter                  Autonomous agent for financial research
-HKUDS/Vibe-Trading              Research and backtesting agent for markets
-tarang7651/odoo_ai_chatbot      Odoo chatbot that queries and edits records
-career-ops-hq/career-ops        Job search agent that scores listings against your CV
-usestrix/strix                  Agent that finds and fixes app vulnerabilities
-ZhuLinsen/daily_stock_analysis  Daily LLM stock reports pushed to chat, with agent Q&A
-virattt/ai-hedge-fund           Investor-persona agents that paper trade and backtest
-KeygraphHQ/shannon              AI pentester that proves web vulnerabilities
-MadsLorentzen/ai-job-search     Claude Code workflow that scores jobs and tailors CVs
-666ghj/BettaFish                Multi-agent system for public opinion analysis
-HKUDS/DeepTutor                 Multi-agent tutor that personalizes lessons
-THU-MAIC/OpenMAIC               Multi-agent classroom that turns a topic into lessons
-vxcontrol/pentagi               Autonomous agents for penetration testing
-eosphoros-ai/DB-GPT             Agentic data assistant with text-to-SQL
-microsoft/data-formulator       Explore and chart data with agents in a visual workspace
-MODSetter/SurfSense             Local NotebookLM-style agent for your private documents
-GreyDGL/PentestGPT              Pentest and CTF agent that drives Claude Code or Codex
-microsoft/RD-Agent              Agent for ML engineering, Kaggle and quant research
-aiming-lab/AutoResearchClaw     Autonomous agent that writes research papers
-elie222/inbox-zero              AI email assistant that triages and drafts replies
-Tracer-Cloud/opensre            Toolkit for building AI SRE agents, still alpha
-zaidmukaddam/scira              Search agent that cites its sources
-a16z-infra/ai-town              Starter kit for a town of AI characters
-Narcooo/inkos                   Chinese agent for novels, scripts and interactive fiction
+assafelovic/gpt-researcher       Autonomous agent for deep research reports
+666ghj/MiroFish                  Simulates agent swarms to forecast outcomes
+TauricResearch/TradingAgents     Multi-agent simulation of a trading firm
+virattt/dexter                   Autonomous agent for financial research
+HKUDS/Vibe-Trading               Research and backtesting agent for markets
+tarang7651/odoo_ai_chatbot       Odoo chatbot that queries and edits records
+career-ops-hq/career-ops         Job search agent that scores listings against your CV
+usestrix/strix                   Agent that finds and fixes app vulnerabilities
+ZhuLinsen/daily_stock_analysis   Daily LLM stock reports pushed to chat, with agent Q&A
+virattt/ai-hedge-fund            Investor-persona agents that paper trade and backtest
+KeygraphHQ/shannon               AI pentester that proves web vulnerabilities
+ai-job-search-dev/ai-job-search  Claude Code workflow that scores jobs and tailors CVs
+666ghj/BettaFish                 Multi-agent system for public opinion analysis
+HKUDS/DeepTutor                  Multi-agent tutor that personalizes lessons
+THU-MAIC/OpenMAIC                Multi-agent classroom that turns a topic into lessons
+vxcontrol/pentagi                Autonomous agents for penetration testing
+eosphoros-ai/DB-GPT              Agentic data assistant with text-to-SQL
+microsoft/data-formulator        Explore and chart data with agents in a visual workspace
+MODSetter/SurfSense              Local NotebookLM-style agent for your private documents
+GreyDGL/PentestGPT               Pentest and CTF agent that drives Claude Code or Codex
+microsoft/RD-Agent               Agent for ML engineering, Kaggle and quant research
+aiming-lab/AutoResearchClaw      Autonomous agent that writes research papers
+elie222/inbox-zero               AI email assistant that triages and drafts replies
+Tracer-Cloud/opensre             Toolkit for building AI SRE agents, still alpha
+zaidmukaddam/scira               Search agent that cites its sources
+a16z-infra/ai-town               Starter kit for a town of AI characters
+Narcooo/inkos                    Chinese agent for novels, scripts and interactive fiction
+Thysrael/Horizon                 News radar that writes you a daily briefing
+Companion-Inc/feynman            Research agent for papers and literature reviews
 
 ## Orchestration
 paperclipai/paperclip               Run a company with a team of agents
@@ -348,6 +354,7 @@ krillinai/OpenCreator        Codex workspace for video, image and voice
 holaboss-ai/holaOS           Local-first agent workspace with integrations and memory
 EKKOLearnAI/ekko-studio      Workspace for multi-agent chat and coding
 cloudflare/cloudflare-os     Company agent workspace on Workers, still early access
+genspark-ai/genoffice        Docs, sheets and slides editors with an agent built in
 
 ## Subagents
 msitarzewski/agency-agents  Over a hundred specialist agent personas
@@ -394,9 +401,11 @@ axolotl-ai-cloud/axolotl        Config-driven fine-tuning for LLMs
 bentoml/OpenLLM                 Serve open LLMs as an OpenAI-compatible API
 huggingface/chat-ui             Chat UI behind HuggingChat, for any OpenAI-style API
 RunanywhereAI/runanywhere-sdks  On-device SDKs for LLMs, speech and voice agents
+deepseek-ai/DeepInfer           High-throughput serving for DeepSeek models, from DeepSeek
+chathub-dev/chathub             Browser extension to chat with several models at once
 
 ## Gateways
-diegosouzapw/OmniRoute         One endpoint for hundreds of providers, free tiers included
+cheaper-inference/OmniRoute    One endpoint for hundreds of providers, free tiers included
 BerriAI/litellm                One OpenAI-style API for 100+ providers. Sits in front of my local models
 farion1231/cc-switch           Desktop app to swap providers across Claude Code and Codex
 router-for-me/CLIProxyAPI      Wraps CLI subscriptions like Codex and Claude Code as APIs
@@ -418,6 +427,7 @@ mksglu/context-mode       MCP server that keeps raw tool output out of context
 toon-format/toon          Compact JSON alternative that saves tokens in prompts
 microsoft/SkillOpt        Trains agent skill files with eval-gated edits
 andrewyng/context-hub     Versioned API docs agents fetch on demand, from Andrew Ng
+xerj-org/xerj             Local search engine and MCP server over code, docs and logs
 
 ## Browser
 browser-use/browser-use             Lets agents drive a real browser
@@ -454,6 +464,7 @@ Arize-ai/phoenix        Tracing and evals UI built on OpenTelemetry
 ifixai-ai/iFixAi        Audits whether an agent does the job it was given
 sirmalloc/ccstatusline  Customizable statusline for Claude Code
 getagentseal/codeburn   Tracks token usage and cost across coding agents
+ShishirPatil/gorilla    Function-calling models and the BFCL leaderboard
 
 ## Security
 morluto/rea            MCP that reverse engineers apps and binaries
@@ -554,6 +565,7 @@ NevaMind-AI/memU                     Personal memory shared across agents
 EverMind-AI/EverOS                   Local Markdown memory that follows you across agents
 MemTensor/MemOS                      Memory OS with hybrid retrieval and skill reuse
 semantica-agi/semantica              Knowledge-graph context and memory for agents
+akitaonrails/ai-memory               Long-term memory and handoff between coding agent CLIs
 
 ## Vector DBs
 milvus-io/milvus     Cloud-native vector database for large-scale search
@@ -579,10 +591,12 @@ corsairdev/corsair       Self-hostable integration layer for agents and your use
 GetBindu/Bindu           Adds identity, A2A messaging and payments to an agent
 
 ## Computer Use
-trycua/cua              Sandboxes and drivers for computer-use agents across OSes
-microsoft/OmniParser    Parses screenshots into elements for GUI agents
-web-infra-dev/midscene  Vision-driven UI automation for web, Android and iOS
-google/artemis          Natural language Android automation over MCP
+trycua/cua                           Sandboxes and drivers for computer-use agents across OSes
+microsoft/OmniParser                 Parses screenshots into elements for GUI agents
+web-infra-dev/midscene               Vision-driven UI automation for web, Android and iOS
+google/artemis                       Natural language Android automation over MCP
+OthersideAI/self-operating-computer  Lets a multimodal model operate your computer
+CursorTouch/Windows-MCP              Computer use on Windows over MCP
 
 ## Sandboxes
 NVIDIA/NemoClaw                Runs OpenClaw and Hermes inside NVIDIA's OpenShell
@@ -618,6 +632,7 @@ kyutai-labs/moshi             Full-duplex speech dialogue model from Kyutai
 moonshine-ai/moonshine        On-device low latency speech models for voice agents
 QuentinFuxa/WhisperLiveKit    Real-time local speech-to-text server
 KoljaB/RealtimeSTT            Low-latency speech-to-text with wake word
+kyutai-labs/pocket-tts        Small TTS that runs on CPU, from Kyutai
 
 ## Prompts
 linshenkx/prompt-optimizer  Web and desktop app to optimize and test prompts
