@@ -10,15 +10,15 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [obra/superpowers](https://github.com/obra/superpowers) | 304k | Brainstorm, write a plan, build it with subagents |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 301k | TDD, grilling, specs and code review |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 287k | Skills, agents, hooks and rules in one plugin |
+| [obra/superpowers](https://github.com/obra/superpowers) | 305k | Brainstorm, write a plan, build it with subagents |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 304k | TDD, grilling, specs and code review |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 289k | Skills, agents, hooks and rules in one plugin |
 | [github/spec-kit](https://github.com/github/spec-kit) | 143k | Spec-driven development kit from GitHub, works with any agent |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | 137k | Garry Tan's Claude Code setup as slash commands |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 110k | Engineering skills from spec to ship |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | 138k | Garry Tan's Claude Code setup as slash commands |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 111k | Engineering skills from spec to ship |
 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 73k | Agree on a spec before the agent writes code |
-| [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | 54k | Agile method that takes an idea through plan and build |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 41k | Multi-phase security audit that verifies its findings |
+| [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | 55k | Agile method that takes an idea through plan and build |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 48k | Multi-phase security audit that verifies its findings |
 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 40k | Multi-agent team orchestration plugin for Claude Code |
 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 34k | Hooks, agent teams and a HUD for Codex |
 | [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) | 28k | Breaks a PRD into tasks the agent works through |
@@ -35,11 +35,11 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 223k | Karpathy's LLM coding pitfalls turned into one CLAUDE.md |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 174k | Makes the agent write the least code that works |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 224k | Karpathy's LLM coding pitfalls turned into one CLAUDE.md |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 177k | Makes the agent write the least code that works |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 115k | Terse replies that cut output tokens |
-| [blader/humanizer](https://github.com/blader/humanizer) | 60k | Rewrites text to remove the signs of AI writing |
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 58k | Makes the agent lead with the answer, steps numbered |
+| [blader/humanizer](https://github.com/blader/humanizer) | 61k | Rewrites text to remove the signs of AI writing |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 59k | Makes the agent lead with the answer, steps numbered |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 36k | Distills how a famous thinker reasons into a skill |
 | [titanwings/distilly](https://github.com/titanwings/distilly) | 26k | Distills a specific person into a skill |
 | [tanweai/pua](https://github.com/tanweai/pua) | 20k | Pressures the agent into high agency |
@@ -49,24 +49,24 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [anthropics/skills](https://github.com/anthropics/skills) | 183k | Anthropic's official Agent Skills |
+| [anthropics/skills](https://github.com/anthropics/skills) | 184k | Anthropic's official Agent Skills |
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 78k | Large curated list of Claude skills and plugins |
-| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 56k | Hand-picked Claude Code resources |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 44k | Anthropic's Claude Code plugin directory |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 57k | Hand-picked Claude Code resources |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 45k | Anthropic's Claude Code plugin directory |
 | [wshobson/agents](https://github.com/wshobson/agents) | 42k | Plugin marketplace of agents, skills and commands for many harnesses |
 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 41k | Cursor rule files for most languages and frameworks |
 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 41k | Finance agents and plugins from Anthropic |
 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 40k | Community Copilot agents, skills and instructions |
-| [vercel-labs/skills](https://github.com/vercel-labs/skills) | 36k | The npx skills CLI, installs skills into most agents |
+| [vercel-labs/skills](https://github.com/vercel-labs/skills) | 37k | The npx skills CLI, installs skills into most agents |
 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 36k | Index of skills from official dev teams and community |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 33k | Cowork plugins for sales, data, legal and more |
 | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | 33k | React performance and UI review skills from Vercel |
 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 33k | CLI to browse and install agents, commands and hooks |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 32k | Cowork plugins for sales, data, legal and more |
 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 29k | Hundreds of skills across engineering, product and marketing |
 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 27k | Marketplace of product management skills |
 | [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | 26k | 161 Claude Code subagents, installable as plugins |
 | [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) | 22k | Skills for goal-setting, cleanup and writing |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 20k | Curated plugins for DeepSeek Harness |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 21k | Curated plugins for DeepSeek Harness |
 | [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) | 17k | Curated list of practical Codex skills |
 | [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | 15k | Turns docs and repos into Claude skills |
 | [cursor/plugins](https://github.com/cursor/plugins) | 14k | Cursor plugin spec and official plugins |
@@ -78,12 +78,12 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 139k | UI styles, palettes and font pairings |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 123k | DESIGN.md files from real brands to drop into a project |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 101k | Keeps agents from shipping generic AI-looking pages |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 85k | 24 design commands plus a detector for AI frontend tells |
-| [emilkowalski/skills](https://github.com/emilkowalski/skills) | 49k | Animation and UI craft rules from Emil Kowalski |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 31k | Anti-slop design skill from Together AI with 21 themes |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 141k | UI styles, palettes and font pairings |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 124k | DESIGN.md files from real brands to drop into a project |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 103k | Keeps agents from shipping generic AI-looking pages |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 88k | 24 design commands plus a detector for AI frontend tells |
+| [emilkowalski/skills](https://github.com/emilkowalski/skills) | 50k | Animation and UI craft rules from Emil Kowalski |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 35k | Anti-slop design skill from Together AI with 21 themes |
 | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | 26k | HTML prototypes, slides and animations with built-in design review |
 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 19k | Agent skill that rebuilds an image as Three.js code |
 | [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | 17k | Official GSAP skills so agents animate correctly |
@@ -96,14 +96,14 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 134k | Turns a repo and its docs into a queryable graph |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 136k | Turns a repo and its docs into a queryable graph |
 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 88k | Interactive code graphs with guided tours |
 
 ### Memory
 
 | Repo | Stars | About |
 |---|--:|---|
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 102k | Memory that carries across sessions |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 103k | Memory that carries across sessions |
 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 31k | Portable agent memory with sources, from Garry Tan |
 | [gastownhall/beads](https://github.com/gastownhall/beads) | 28k | Dependency-graph issue tracker agents use as memory |
 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 16k | Claude Code files your sources into an Obsidian wiki |
@@ -113,23 +113,23 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 101k | Lets agents read Twitter, Reddit, YouTube and more |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 65k | What people said about a topic in the last 30 days |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 54k | 177 science skills plus access to research databases |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 103k | Lets agents read Twitter, Reddit, YouTube and more |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 66k | What people said about a topic in the last 30 days |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 55k | 177 science skills plus access to research databases |
 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 54k | Research, write, review and revise academic papers |
 | [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | 35k | Paper writing prompts and skills from working researchers |
 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 18k | Markdown skills for autonomous ML research |
 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 17k | Value investing research skills for Claude Code and Codex |
 | [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 14k | ML research and engineering skills, from training to papers |
-| [HKUSTDial/Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills) | 10k | Research supervisor skills from idea to submission, in Chinese |
+| [HKUSTDial/Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills) | 11k | Research supervisor skills from idea to submission, in Chinese |
 
 ### Diagrams
 
 | Repo | Stars | About |
 |---|--:|---|
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 88k | Turns an idea, plan or codebase into an interactive diagram |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 60k | Editorial HTML and SVG diagrams in your brand, no Mermaid |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 19k | Explains tech concepts as interactive isometric machine figures |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 90k | Turns an idea, plan or codebase into an interactive diagram |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 61k | Editorial HTML and SVG diagrams in your brand, no Mermaid |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 21k | Explains tech concepts as interactive isometric machine figures |
 | [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) | 12k | Technical diagrams as SVG or PNG from plain English |
 | [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) | 11k | HTML pages and slides for diffs, plans and recaps |
 | [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) | 10k | Editable draw.io architecture diagrams from code, Terraform or SQL |
@@ -138,14 +138,14 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 71k | Full video production pipeline driven by your coding agent |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 70k | HTML to MP4 renderer, ships as an agent plugin |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 73k | HTML to MP4 renderer, ships as an agent plugin |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 72k | Full video production pipeline driven by your coding agent |
 | [browser-use/video-use](https://github.com/browser-use/video-use) | 30k | Edits a folder of raw footage into a finished video |
 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 27k | Cover images, infographics, comics and posting to X or WeChat |
 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 19k | Lets the agent watch a video via frames and transcript |
-| [latent-spaces/brag](https://github.com/latent-spaces/brag) | 18k | Makes a short launch video for the project you built |
+| [latent-spaces/brag](https://github.com/latent-spaces/brag) | 19k | Makes a short launch video for the project you built |
+| [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 14k | Cinematic product videos in Remotion from shot recipe cards |
 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | 13k | Web design, image prompts and short video skills |
-| [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 13k | Cinematic product videos in Remotion from shot recipe cards |
 | [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 13k | Hand-drawn style illustrations for Chinese articles, Codex skill |
 | [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) | 12k | Image to 3D scene and SFX via Claude, needs paid APIs |
 
@@ -153,7 +153,7 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 66k | Native editable PowerPoint decks from a document or topic |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 69k | Native editable PowerPoint decks from a document or topic |
 | [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 31k | Single-file HTML slide decks, can also convert PowerPoint |
 | [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 29k | Magazine and Swiss style HTML decks |
 
@@ -161,9 +161,9 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 56k | CRO, copywriting, SEO and growth skills |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 57k | CRO, copywriting, SEO and growth skills |
 | [every-app/open-seo](https://github.com/every-app/open-seo) | 25k | Self-hosted Semrush alternative with an MCP and SEO skills |
-| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 20k | SEO audits with parallel subagents, schema and E-E-A-T |
+| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 22k | SEO audits with parallel subagents, schema and E-E-A-T |
 | [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | 11k | Audits sites for AI search citations and SEO |
 | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | 10k | Paid media audits across twelve ad platforms |
 
@@ -199,7 +199,7 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 27k | Game dev studio with 49 agents and skills |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 28k | Game dev studio with 49 agents and skills |
 
 ### Prompts
 
@@ -220,12 +220,12 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | Repo | Stars | About |
 |---|--:|---|
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 393k | Self-hosted assistant over WhatsApp, Telegram, Discord. Runs my team's agents |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 256k | Nous Research's agent, the one AgentBay was built for |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 257k | Nous Research's agent, the one AgentBay was built for |
 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 84k | ByteDance's research agent, runs long tasks in a sandbox |
 | [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) | 59k | Manus clone from the MetaGPT folks |
 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 49k | Small hackable Python agent from HKU |
 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 48k | Used to be chatgpt-on-wechat, now a full agent |
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 43k | Bot framework for QQ, Telegram, Discord and more |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 44k | Bot framework for QQ, Telegram, Discord and more |
 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 42k | Lightweight Rust agent harness with desktop app |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 39k | ByteDance multimodal computer-use agent stack |
 | [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | 38k | Self-hosted AI second brain with agents |
@@ -258,11 +258,11 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 259k | DeepSeek's plugin-based agent harness |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 220k | Terminal agent that works with any provider |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 262k | DeepSeek's plugin-based agent harness |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 222k | Terminal agent that works with any provider |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 153k | Claude Code. What I use most |
 | [openai/codex](https://github.com/openai/codex) | 131k | Codex CLI from OpenAI |
-| [earendil-works/pi](https://github.com/earendil-works/pi) | 117k | Minimal coding agent and agent toolkit |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | 118k | Minimal coding agent and agent toolkit |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 108k | Gemini in the terminal |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 92k | Formerly OpenDevin. Coding agents in a sandbox |
 | [cline/cline](https://github.com/cline/cline) | 71k | Coding agent for VS Code and CLI |
@@ -272,7 +272,7 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 50k | AI pair programming in the terminal |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 48k | Code review CLI mixing rule pipelines with an LLM agent |
 | [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | 41k | Rust coding agent that works with any model |
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 36k | Pi-based coding agent with IDE tooling built in |
+| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 37k | Pi-based coding agent with IDE tooling built in |
 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 36k | DeepSeek-first coding agent for terminal and desktop |
 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 29k | Charm's agent. Nice TUI, as you'd expect |
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 29k | Qwen's agent for terminal, IDEs and chat apps |
@@ -284,8 +284,8 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) | 21k | Fixes GitHub issues using any LM |
 | [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) | 18k | Cursor-style agentic coding inside Neovim |
 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 17k | Coding agent with a paper-to-code workflow |
-| [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) | 14k | Terminal coding agent from Xiaomi with project memory |
 | [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | 14k | Free ad-supported coding agent from Codebuff |
+| [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) | 14k | Terminal coding agent from Xiaomi with project memory |
 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 14k | AI agent for reviewing pull requests |
 | [github/copilot-cli](https://github.com/github/copilot-cli) | 11k | GitHub Copilot coding agent in the terminal |
 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 11k | Coding agent on Deep Agents that turns issues into PRs |
@@ -298,7 +298,7 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | Repo | Stars | About |
 |---|--:|---|
 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 188k | The 2023 hype one, now a platform for building agents |
-| [langgenius/dify](https://github.com/langgenius/dify) | 159k | Visual platform for agent workflows and RAG |
+| [langgenius/dify](https://github.com/langgenius/dify) | 160k | Visual platform for agent workflows and RAG |
 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 156k | Visual builder for agents and flows |
 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 148k | The big one. Integrations for everything |
 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 60k | Framework for role-playing multi-agent crews |
@@ -310,11 +310,11 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 31k | Batteries-included agent harness built on LangGraph |
 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 30k | OpenAI Agents SDK, handoffs and guardrails built in |
 | [huggingface/smolagents](https://github.com/huggingface/smolagents) | 30k | Minimal agent library where actions are code |
-| [labring/FastGPT](https://github.com/labring/FastGPT) | 30k | Knowledge base platform with visual RAG and agent workflows |
 | [simstudioai/sim](https://github.com/simstudioai/sim) | 30k | Workspace to build and deploy agent workflows |
+| [labring/FastGPT](https://github.com/labring/FastGPT) | 30k | Knowledge base platform with visual RAG and agent workflows |
 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | 29k | TS agents and workflows, from the Gatsby folks |
 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 29k | Microsoft's older SDK, agent-framework replaces it |
-| [vercel/ai](https://github.com/vercel/ai) | 27k | Vercel's TS SDK. Streaming, tool calls, React hooks |
+| [vercel/ai](https://github.com/vercel/ai) | 28k | Vercel's TS SDK. Streaming, tool calls, React hooks |
 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 27k | Framework for production LLM pipelines and agents |
 | [activepieces/activepieces](https://github.com/activepieces/activepieces) | 25k | Zapier-style automation, pieces double as MCP servers |
 | [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 23k | Knowledge base Q&A and agent builder from the 1Panel team |
@@ -329,10 +329,10 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [botpress/botpress](https://github.com/botpress/botpress) | 15k | Platform to build and deploy chat agents |
 | [livekit/agents](https://github.com/livekit/agents) | 15k | Voice and video agents on LiveKit |
 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 14k | Successor to AutoGen and Semantic Kernel |
+| [thesysdev/openui](https://github.com/thesysdev/openui) | 14k | Streaming language and renderers for model-generated UI |
 | [xszyou/Fay](https://github.com/xszyou/Fay) | 14k | Digital human framework wiring LLMs, ASR and TTS |
 | [cloudwego/eino](https://github.com/cloudwego/eino) | 13k | LLM and agent framework for Go |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 13k | LangChain for Java |
-| [thesysdev/openui](https://github.com/thesysdev/openui) | 13k | Streaming language and renderers for model-generated UI |
 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 12k | Enterprise platform for LLM workflows, RAG and agents |
 | [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) | 11k | 100-line minimalist LLM agent framework |
 | [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) | 11k | Another voice agent framework, same space as pipecat |
@@ -345,24 +345,24 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 163k | Over a hundred specialist agent personas |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 164k | Over a hundred specialist agent personas |
 
 ### Niche
 
 | Repo | Stars | About |
 |---|--:|---|
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 113k | Multi-agent simulation of a trading firm |
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 81k | Simulates agent swarms to forecast outcomes |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 115k | Multi-agent simulation of a trading firm |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 82k | Simulates agent swarms to forecast outcomes |
 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 77k | Job search agent that scores listings against your CV |
-| [usestrix/strix](https://github.com/usestrix/strix) | 71k | Agent that finds and fixes app vulnerabilities |
+| [usestrix/strix](https://github.com/usestrix/strix) | 72k | Agent that finds and fixes app vulnerabilities |
 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 67k | Daily LLM stock reports pushed to chat, with agent Q&A |
+| [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | 66k | Claude Code workflow that scores jobs and tailors CVs |
 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 64k | Investor-persona agents that paper trade and backtest |
-| [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | 64k | Claude Code workflow that scores jobs and tailors CVs |
 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 49k | AI pentester that proves web vulnerabilities |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 43k | Multi-agent tutor that personalizes lessons |
 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 43k | Multi-agent system for public opinion analysis |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 42k | Multi-agent tutor that personalizes lessons |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 41k | Multi-agent classroom that turns a topic into lessons |
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 36k | Research and backtesting agent for markets |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 42k | Multi-agent classroom that turns a topic into lessons |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 37k | Research and backtesting agent for markets |
 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 32k | Autonomous agents for penetration testing |
 | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | 30k | Autonomous agent for deep research reports |
 | [virattt/dexter](https://github.com/virattt/dexter) | 28k | Autonomous agent for financial research |
@@ -376,8 +376,8 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | 12k | Toolkit for building AI SRE agents, still alpha |
 | [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) | 12k | Search agent that cites its sources |
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 11k | News radar that writes you a daily briefing |
+| [Narcooo/inkos](https://github.com/Narcooo/inkos) | 11k | Chinese agent for novels, scripts and interactive fiction |
 | [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town) | 11k | Starter kit for a town of AI characters |
-| [Narcooo/inkos](https://github.com/Narcooo/inkos) | 10k | Chinese agent for novels, scripts and interactive fiction |
 | [Companion-Inc/feynman](https://github.com/Companion-Inc/feynman) | 10k | Research agent for papers and literature reviews |
 | [tarang7651/odoo_ai_chatbot](https://github.com/tarang7651/odoo_ai_chatbot) | 2 | Odoo chatbot that queries and edits records |
 
@@ -385,25 +385,25 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 106k | Run a company with a team of agents |
-| [stablyai/orca](https://github.com/stablyai/orca) | 103k | Desktop app for running parallel coding agents |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 107k | Run a company with a team of agents |
+| [stablyai/orca](https://github.com/stablyai/orca) | 107k | Desktop app for running parallel coding agents |
 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 83k | Runs and schedules a team of agents for you |
 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 79k | Agent swarms for Claude Code and Codex |
 | [multica-ai/multica](https://github.com/multica-ai/multica) | 54k | Assign issues to coding agents like teammates |
-| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 45k | Terminal runtime for running many coding agents |
+| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 46k | Terminal runtime for running many coding agents |
 | [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 35k | Agents role-play a software company |
 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 34k | Cowork app for 20+ CLI coding agents |
 | [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 32k | Durable execution for agent and workflow runs, started at Netflix |
-| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 28k | Ghostty-based macOS terminal for coding agents |
+| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 29k | Ghostty-based macOS terminal for coding agents |
 | [openai/symphony](https://github.com/openai/symphony) | 28k | Turns tracker tickets into isolated coding agent runs |
 | [slopus/happy](https://github.com/slopus/happy) | 24k | Run Claude Code and Codex from phone or desktop |
 | [coleam00/Archon](https://github.com/coleam00/Archon) | 24k | YAML workflows that make coding agent runs repeatable |
 | [getpaseo/paseo](https://github.com/getpaseo/paseo) | 22k | Run coding agents in parallel from desktop or phone |
 | [camel-ai/owl](https://github.com/camel-ai/owl) | 20k | CAMEL's multi-agent setup for general tasks |
-| [gastownhall/gastown](https://github.com/gastownhall/gastown) | 18k | Workspace manager for many coding agents |
+| [gastownhall/gastown](https://github.com/gastownhall/gastown) | 19k | Workspace manager for many coding agents |
 | [cft0808/edict](https://github.com/cft0808/edict) | 17k | OpenClaw agents organized like imperial Chinese ministries, with dashboard |
+| [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) | 16k | IDE for running coding agents in parallel |
 | [yc-software/qm](https://github.com/yc-software/qm) | 16k | Multiplayer agent harness for teams, Slack and web |
-| [superset-sh/superset](https://github.com/superset-sh/superset) | 15k | IDE for running coding agents in parallel |
 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | 14k | Web and mobile UI for Claude Code and Codex |
 | [google/ax](https://github.com/google/ax) | 14k | Declarative orchestrator for agents at cluster scale |
 | [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | 14k | Supervise teams of coding agents through merge |
@@ -417,7 +417,7 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 |---|--:|---|
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 104k | Local-first workspace for design agents |
 | [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) | 94k | Self-hosted chat, agents, notes, email and calendar in one app |
-| [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 67k | Local-first desktop app for doc chat and agents |
+| [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 68k | Local-first desktop app for doc chat and agents |
 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 53k | Desktop chat app with agents and assistants |
 | [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | 46k | Self-hosted chat app with agents and MCP |
 | [block/buzz](https://github.com/block/buzz) | 36k | Channels where people and agents work together |
@@ -432,7 +432,7 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [EKKOLearnAI/ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) | 12k | Workspace for multi-agent chat and coding |
 | [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | 11k | Local-first agent workspace with integrations and memory |
 | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 11k | Docs, sheets and slides editors with an agent built in |
-| [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) | 6.7k | Web UI for Hermes: chat, terminal, memory, skills |
+| [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) | 6.8k | Web UI for Hermes: chat, terminal, memory, skills |
 | [yetone/cumora](https://github.com/yetone/cumora) | 4k | Team chat with agents as members |
 
 ## Tools
@@ -441,18 +441,18 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [morluto/rea](https://github.com/morluto/rea) | 370k | MCP that reverse engineers apps and binaries |
-| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 21k | Scans skills for prompt injection and exfiltration before install |
+| [morluto/rea](https://github.com/morluto/rea) | 388k | MCP that reverse engineers apps and binaries |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 22k | Scans skills for prompt injection and exfiltration before install |
 | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | 13k | MCP that runs 150+ pentest tools for agents |
-| [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 11k | MCP server for Ghidra reverse engineering |
+| [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 12k | MCP server for Ghidra reverse engineering |
 | [openai/codex-security](https://github.com/openai/codex-security) | 11k | Codex-based CLI that finds, checks and fixes vulnerabilities |
 
 ### Web
 
 | Repo | Stars | About |
 |---|--:|---|
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 194k | Crawls and scrapes sites into LLM-ready markdown |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 89k | Adaptive Python scraping from one request to full crawls |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 195k | Crawls and scrapes sites into LLM-ready markdown |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 90k | Adaptive Python scraping from one request to full crawls |
 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 86k | Crawler that outputs clean Markdown for LLMs |
 | [searxng/searxng](https://github.com/searxng/searxng) | 39k | Self-hosted metasearch, handy as an agent search backend |
 | [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | 32k | LLM-driven scraping pipelines in Python |
@@ -466,8 +466,8 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 |---|--:|---|
 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 192k | Converts Office files and PDFs to Markdown |
 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 92k | OCR toolkit that turns PDFs and images into data |
-| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 82k | Extracts clean markdown from messy PDFs |
-| [docling-project/docling](https://github.com/docling-project/docling) | 69k | Parses PDFs and office docs for RAG |
+| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 83k | Extracts clean markdown from messy PDFs |
+| [docling-project/docling](https://github.com/docling-project/docling) | 70k | Parses PDFs and office docs for RAG |
 | [datalab-to/marker](https://github.com/datalab-to/marker) | 41k | Fast, accurate PDF to Markdown and JSON |
 | [google/langextract](https://github.com/google/langextract) | 39k | Pulls structured, source-grounded data from text with LLMs |
 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 30k | PDF parser that outputs AI-ready data |
@@ -482,32 +482,32 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [ollama/ollama](https://github.com/ollama/ollama) | 184k | Run open models locally. Serves my Mac Studio |
+| [ollama/ollama](https://github.com/ollama/ollama) | 185k | Run open models locally. Serves my Mac Studio |
 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 157k | Self-hosted chat UI for Ollama and OpenAI APIs |
 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 132k | LLM inference in plain C/C++, home of GGUF |
-| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 95k | High-throughput serving engine for LLMs |
+| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 96k | High-throughput serving engine for LLMs |
 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 89k | Lightweight chat client for many model APIs, with MCP |
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 78k | Fast local fine-tuning, now with a UI |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 79k | Fast local fine-tuning, now with a UI |
 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 76k | Fine-tune 100+ LLMs and VLMs from one config |
 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 50k | Drop-in OpenAI API for local models of every kind |
 | [exo-explore/exo](https://github.com/exo-explore/exo) | 48k | Splits big models across your own devices |
 | [oobabooga/textgen](https://github.com/oobabooga/textgen) | 48k | Formerly text-generation-webui, desktop app for local LLMs |
 | [janhq/jan](https://github.com/janhq/jan) | 45k | Offline ChatGPT-style desktop app for local models |
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 43k | Pure C engine that streams MoE experts from disk |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 44k | Pure C engine that streams MoE experts from disk |
 | [chatboxai/chatbox](https://github.com/chatboxai/chatbox) | 42k | Desktop chat client for many LLM providers |
 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 41k | Inference for 1-bit LLMs on CPUs |
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | 40k | Runs huge models on a 4GB GPU, layer by layer |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | 41k | Runs huge models on a 4GB GPU, layer by layer |
 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 38k | Tells you which models fit your hardware |
 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 38k | Fast serving framework for LLMs and multimodal models |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 36k | Removes refusals from open-weight models |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 37k | Removes refusals from open-weight models |
 | [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) | 35k | Roleplay-leaning chat frontend for local and API LLMs |
 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 34k | Fast classifier for routing and yes/no calls in agent pipelines |
-| [Niko1221/Strata](https://github.com/Niko1221/Strata) | 31k | Runs Qwen3.8-Flash-Next locally on a 12 GB GPU |
+| [Niko1221/Strata](https://github.com/Niko1221/Strata) | 33k | Runs Qwen3.8-Flash-Next locally on a 12 GB GPU |
 | [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) | 26k | Ship and run a model as one file |
 | [antirez/ds4](https://github.com/antirez/ds4) | 24k | Small local engine for DeepSeek V4, GLM and Qwen |
 | [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) | 23k | Compiles LLMs to run natively on any device |
 | [jundot/omlx](https://github.com/jundot/omlx) | 23k | MLX inference server with SSD caching, menu bar app |
-| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | 21k | High-throughput serving for DeepSeek models, from DeepSeek |
+| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | 23k | High-throughput serving for DeepSeek models, from DeepSeek |
 | [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | 20k | CPU and GPU hybrid inference for huge MoE models |
 | [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) | 19k | Runs LLMs right in the browser on WebGPU |
 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 19k | RL training for agents inside their real harnesses |
@@ -522,21 +522,21 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [huggingface/chat-ui](https://github.com/huggingface/chat-ui) | 11k | Chat UI behind HuggingChat, for any OpenAI-style API |
 | [chathub-dev/chathub](https://github.com/chathub-dev/chathub) | 11k | Browser extension to chat with several models at once |
 | [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) | 10k | On-device SDKs for LLMs, speech and voice agents |
-| [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) | 7.4k | Run and fine-tune LLMs on Apple Silicon |
+| [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) | 7.5k | Run and fine-tune LLMs on Apple Silicon |
 
 ### Gateways
 
 | Repo | Stars | About |
 |---|--:|---|
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 148k | Desktop app to swap providers across Claude Code and Codex |
-| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 80k | One endpoint for hundreds of providers, free tiers included |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 149k | Desktop app to swap providers across Claude Code and Codex |
+| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 81k | One endpoint for hundreds of providers, free tiers included |
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62k | One OpenAI-style API for 100+ providers. Sits in front of my local models |
 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 56k | Wraps CLI subscriptions like Codex and Claude Code as APIs |
 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | 51k | Model hub converting between OpenAI, Claude and Gemini formats |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 38k | Routes Claude Code requests to any model |
 | [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | 33k | Provider switching and tweaks for the Codex desktop app |
 | [decolua/9router](https://github.com/decolua/9router) | 31k | Free tier router for coding agents, OmniRoute's upstream |
-| [yetone/magpie](https://github.com/yetone/magpie) | 20k | Local gateway that puts any coding agent on any model |
+| [yetone/magpie](https://github.com/yetone/magpie) | 22k | Local gateway that puts any coding agent on any model |
 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 18k | Provider proxy so Codex and Claude Code use any LLM |
 | [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | 16k | Thin Python client over many model providers, from Andrew Ng |
 | [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | 13k | Gateway with routing, fallbacks and guardrails |
@@ -546,9 +546,9 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | Repo | Stars | About |
 |---|--:|---|
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 119k | Lets agents drive a real browser |
-| [microsoft/playwright](https://github.com/microsoft/playwright) | 98k | The browser automation library most agent tools build on |
+| [microsoft/playwright](https://github.com/microsoft/playwright) | 99k | The browser automation library most agent tools build on |
 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 54k | Chrome DevTools for agents: console, network, perf traces |
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 44k | Browser automation CLI built for agents |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 45k | Browser automation CLI built for agents |
 | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | 39k | Playwright over MCP using accessibility snapshots |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 37k | Headless browser written in Zig, made for agents |
 | [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) | 31k | Turns websites into CLIs using your logged-in browser |
@@ -557,8 +557,8 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [browserbase/stagehand](https://github.com/browserbase/stagehand) | 26k | Browserbase SDK mixing code with natural language actions |
 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 24k | Fast browser agent built on TypeSafe's Jev decision API |
 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 23k | Automates browser workflows with LLMs and vision |
-| [lexmount/moli](https://github.com/lexmount/moli) | 20k | Rust headless browser kernel for agents, not a Chromium wrapper |
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 19k | macOS browser where agents reuse your logins |
+| [lexmount/moli](https://github.com/lexmount/moli) | 21k | Rust headless browser kernel for agents, not a Chromium wrapper |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 20k | macOS browser where agents reuse your logins |
 | [browser-use/browser-harness](https://github.com/browser-use/browser-harness) | 19k | Hooks Claude Code or Codex into your real Chrome |
 | [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) | 14k | Chrome extension agent that works in your logged-in browser |
 | [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) | 14k | Second browser your agents drive with your logins |
@@ -574,7 +574,7 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 64k | Few-shot voice cloning and TTS WebUI |
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 55k | Long-form speech recognition plus a realtime TTS model |
 | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) | 55k | Whisper speech to text in C and C++ |
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 40k | Multilingual TTS with voice design and cloning |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 41k | Multilingual TTS with voice design and cloning |
 | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 33k | Text to speech model with voice cloning |
 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 27k | Text to speech models with zero-shot voice cloning |
 | [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 26k | Whisper reimplemented on CTranslate2, up to 4x faster |
@@ -584,7 +584,7 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [modelscope/FunASR](https://github.com/modelscope/FunASR) | 21k | Speech recognition toolkit with streaming and OpenAI-style serving |
 | [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) | 16k | Text to speech that runs in realtime on CPU |
 | [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) | 16k | Voice cloning TTS for 600+ languages |
-| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | 15k | Offline speech-to-text and text-to-speech toolkit |
+| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | 16k | Offline speech-to-text and text-to-speech toolkit |
 | [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) | 15k | Flow matching TTS with zero-shot voice cloning |
 | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 14k | Local voice agent pipeline built from open models |
 | [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) | 11k | Full-duplex speech dialogue model from Kyutai |
@@ -624,9 +624,9 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) | 58k | API layer adding RAG, tools and MCP to local models |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 53k | Document processing and RAG framework |
 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 40k | Simple, fast graph-based RAG from HKU |
-| [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) | 40k | Ingestion and hybrid search engine for RAG |
 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 40k | Reasoning-based RAG over document trees, no vectors |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 35k | Document RAG platform with a reasoning agent |
+| [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) | 40k | Ingestion and hybrid search engine for RAG |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 36k | Document RAG platform with a reasoning agent |
 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 33k | Self-hosted chat and search over your team's apps |
 | [tobi/qmd](https://github.com/tobi/qmd) | 31k | Local CLI search engine for your notes and docs |
 | [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | 26k | Clean RAG UI for chatting with your documents |
@@ -642,22 +642,22 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 84k | Proxy that trims dev command output to save tokens |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 85k | Proxy that trims dev command output to save tokens |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 78k | Compresses tool output before the model sees it. Haven't tried it yet |
 | [upstash/context7](https://github.com/upstash/context7) | 64k | Feeds current library docs to agents |
 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 41k | Context database for agent memory and RAG |
 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 32k | MCP server that keeps raw tool output out of context |
 | [toon-format/toon](https://github.com/toon-format/toon) | 26k | Compact JSON alternative that saves tokens in prompts |
 | [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) | 19k | Trains agent skill files with eval-gated edits |
+| [xerj-org/xerj](https://github.com/xerj-org/xerj) | 16k | Local search engine and MCP server over code, docs and logs |
 | [andrewyng/context-hub](https://github.com/andrewyng/context-hub) | 14k | Versioned API docs agents fetch on demand, from Andrew Ng |
-| [xerj-org/xerj](https://github.com/xerj-org/xerj) | 13k | Local search engine and MCP server over code, docs and logs |
 
 ### Codebase
 
 | Repo | Stars | About |
 |---|--:|---|
 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 75k | Local code graph over MCP, syncs on edits |
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 47k | Indexes repos into a code graph served over MCP |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 48k | Indexes repos into a code graph served over MCP |
 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 32k | Local code graph so agents read less during reviews |
 | [oraios/serena](https://github.com/oraios/serena) | 31k | Symbol-level code search and editing over MCP |
 | [yamadashy/repomix](https://github.com/yamadashy/repomix) | 29k | Packs a whole repo into one AI-friendly file |
@@ -673,7 +673,7 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 |---|--:|---|
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 68k | Drop-in memory layer for agents |
 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 60k | Local verbatim memory with scoped semantic search |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 53k | Agent memory that learns from past runs |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 54k | Agent memory that learns from past runs |
 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 33k | Long-term agent memory built on knowledge graphs |
 | [getzep/graphiti](https://github.com/getzep/graphiti) | 32k | Temporal knowledge graphs that track changing facts |
 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 31k | Memory and context engine you can run locally |
@@ -684,15 +684,15 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [memvid/memvid](https://github.com/memvid/memvid) | 17k | Single-file memory layer instead of a RAG pipeline |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 15k | Personal memory shared across agents |
 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 14k | Knowledge-graph context and memory for agents |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 14k | Long-term memory and handoff between coding agent CLIs |
 | [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | 14k | Local Markdown memory that follows you across agents |
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 13k | Long-term memory and handoff between coding agent CLIs |
 | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | 12k | Memory OS with hybrid retrieval and skill reuse |
 
 ### Integrations
 
 | Repo | Stars | About |
 |---|--:|---|
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 56k | Generated CLIs that let agents drive Blender, GIMP, QGIS and more |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 57k | Generated CLIs that let agents drive Blender, GIMP, QGIS and more |
 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 32k | Lets agents edit Word, Excel and PowerPoint files |
 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 32k | One CLI for every Google Workspace API, with agent skills |
 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 31k | Thousand-plus app toolkits with auth handled for agents |
@@ -715,7 +715,7 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 17k | Vector database storing objects alongside embeddings |
 | [alibaba/zvec](https://github.com/alibaba/zvec) | 16k | Lightweight in-process vector database from Alibaba |
 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 12k | Embedded multimodal vector database |
-| [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 11k | Graph database built for GraphRAG |
+| [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 10k | Graph database built for GraphRAG |
 
 ### Prompts
 
@@ -727,8 +727,8 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36k | Tracing and evals for LLM apps |
-| [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 34k | Audits whether an agent does the job it was given |
+| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 37k | Tracing and evals for LLM apps |
+| [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 35k | Audits whether an agent does the job it was given |
 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 29k | Statusline showing context, tools and running agents |
 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 29k | ML platform that now traces and evaluates agents |
 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26k | Prompt, agent and RAG testing plus red teaming |
@@ -748,9 +748,9 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [trycua/cua](https://github.com/trycua/cua) | 31k | Sandboxes and drivers for computer-use agents across OSes |
 | [microsoft/OmniParser](https://github.com/microsoft/OmniParser) | 26k | Parses screenshots into elements for GUI agents |
 | [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) | 15k | Vision-driven UI automation for web, Android and iOS |
-| [google/artemis](https://github.com/google/artemis) | 14k | Natural language Android automation over MCP |
-| [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) | 10k | Lets a multimodal model operate your computer |
+| [google/artemis](https://github.com/google/artemis) | 15k | Natural language Android automation over MCP |
 | [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | 10k | Computer use on Windows over MCP |
+| [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) | 10k | Lets a multimodal model operate your computer |
 
 ### Protocols
 
@@ -764,7 +764,7 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | Repo | Stars | About |
 |---|--:|---|
 | [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | 23k | Runs OpenClaw and Hermes inside NVIDIA's OpenShell |
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 18k | Sandboxed runtime for autonomous agents |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 20k | Sandboxed runtime for autonomous agents |
 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | 16k | Sandbox runtime for agents, started at Alibaba |
 | [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | 15k | Cloud sandboxes where agents run code safely |
 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | 13k | KVM microVM sandboxes for agents, E2B compatible |
@@ -791,9 +791,9 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 |---|--:|---|
 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 143k | Example agent, RAG and LLM apps with code |
 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 107k | Build a GPT-style LLM in PyTorch step by step |
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 84k | Chinese tutorial on building agents from scratch |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 85k | Chinese tutorial on building agents from scratch |
 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 79k | Build a nano Claude Code agent harness from scratch |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 73k | 542 lessons building models, RAG and agents from scratch |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 74k | 542 lessons building models, RAG and agents from scratch |
 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 64k | Train a 64M parameter LLM from scratch in two hours |
 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | 59k | Train your own small ChatGPT for about $100 |
 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 54k | Notebooks and recipes for building with Claude |
@@ -801,7 +801,7 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 30k | Notebook tutorials for advanced RAG techniques |
 | [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | 25k | Tutorials and code for 50+ agent techniques |
 | [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) | 19k | Recipes for inference, fine-tuning and RAG with Llama |
-| [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) | 12k | Full-stack RAG tutorial with code, in Chinese |
+| [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) | 13k | Full-stack RAG tutorial with code, in Chinese |
 | [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | 12k | Plain PyTorch LLM from pretraining through SFT, DPO and GRPO |
 
 ### Courses
@@ -812,15 +812,15 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 78k | 18 lessons on building AI agents |
 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 68k | Claude Code best practices with working examples |
 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 56k | Book on agent design with 109 labs, many languages |
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 44k | Visual tutorials and templates for learning Claude Code |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 45k | Visual tutorials and templates for learning Claude Code |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 38k | Tutorials on LLMs, RAG and agent apps |
 | [huggingface/agents-course](https://github.com/huggingface/agents-course) | 34k | Free course on agents with smolagents, LangGraph and LlamaIndex |
 | [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 30k | Code for the Hands-On LLMs book |
 | [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | 22k | Code-first tutorials for taking agents to production |
-| [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 21k | Project-based course on building coding agent harnesses |
+| [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 22k | Project-based course on building coding agent harnesses |
 | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 20k | Beginner course on shipping products with AI coding |
 | [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) | 18k | Notes and resources for Chip Huyen's AI Engineering book |
-| [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | 17k | Curriculum on building with MCP in six languages |
+| [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | 18k | Curriculum on building with MCP in six languages |
 | [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | 17k | Example apps for RAG, agents and workflows |
 | [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) | 14k | Beginner course on building LLM apps, in Chinese |
 | [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) | 11k | Agent dev learning path and interview prep, in Chinese |
@@ -839,16 +839,16 @@ Skills, agents, tools, learning material and random projects I use or keep an ey
 
 | Repo | Stars | About |
 |---|--:|---|
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 134k | Short videos from a topic, end to end |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 58k | Voice cloning and dictation studio |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 135k | Short videos from a topic, end to end |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 59k | Voice cloning and dictation studio |
 | [brahmkshatriya/echo](https://github.com/brahmkshatriya/echo) | 3.6k | Extension-based music player for Android |
 
 ### OSINT
 
 | Repo | Stars | About |
 |---|--:|---|
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 89k | Real-time global news and intelligence dashboard |
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 59k | Spy satellite simulator running on real data |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 90k | Real-time global news and intelligence dashboard |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 60k | Spy satellite simulator running on real data |
 
 ### Misc
 
